@@ -110,4 +110,4 @@ GNU GPL-3.0 — free software with copyleft; redistribution and modification und
 
 If you enjoy it, leave a ⭐ on the repo. Feedback is very welcome!
 
-[![Repobeats](https://repobeats.axiom.co/api/embed/<repo-id>.svg)](https://github.com/aMathyzinn/ClimaView)
+[![Repobeats](https://repobeats.axiom.co/api/embed/<1101775470>.svg)](https://github.com/aMathyzinn/ClimaView)
