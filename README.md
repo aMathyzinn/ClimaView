@@ -18,7 +18,6 @@ ClimaView é um dashboard de clima com foco em usabilidade e visual limpo. Ele b
 
 ## Preview
 
-<!-- Opcional: substitua pelos seus assets em docs/ -->
 <p align="center">
   <img src="public/clima.png" alt="Preview" width="85%"/>
 </p>
