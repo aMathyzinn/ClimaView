@@ -1,16 +1,16 @@
 # ClimaView — Dashboard de Clima Moderno
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&pause=1000&color=14A5E9&center=true&vCenter=true&width=900&lines=ClimaView+%F0%9F%8C%A1+Dashboard+de+Clima+ModernO;Previs%C3%A3o+em+tempo+real+com+gr%C3%A1ficos+responsivos;Experi%C3%AAncia+suave+em+mobile+e+desktop)](https://github.com/<owner>/<repo>)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&pause=1000&color=14A5E9&center=true&vCenter=true&width=900&lines=ClimaView+%F0%9F%8C%A1+Dashboard+de+Clima+ModernO;Previs%C3%A3o+em+tempo+real+com+gr%C3%A1ficos+responsivos;Experi%C3%AAncia+suave+em+mobile+e+desktop)](https://github.com/aMathyzinn/ClimaView)
 
-[![Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social)](https://github.com/<owner>/<repo>/stargazers)
-[![Issues](https://img.shields.io/github/issues/<owner>/<repo>?color=14A5E9)](https://github.com/<owner>/<repo>/issues)
+[![Stars](https://img.shields.io/github/stars/aMathyzinn/ClimaView?style=social)](https://github.com/aMathyzinn/ClimaView/stargazers)
+[![Issues](https://img.shields.io/github/issues/aMathyzinn/ClimaView?color=14A5E9)](https://github.com/aMathyzinn/ClimaView/issues)
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs)](https://nextjs.org/)
 [![Tailwind](https://img.shields.io/badge/TailwindCSS-4.1-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-4-FF6384?logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![Open‑Meteo](https://img.shields.io/badge/Open%E2%80%91Meteo-API-0EA5E9)](https://open-meteo.com/)
 
-> Substitua `<owner>/<repo>` acima pelo seu repositório no GitHub para ativar badges e contadores.
+Perfil: https://github.com/aMathyzinn • Repositório: https://github.com/aMathyzinn/ClimaView
 
 ## Visão Geral
 
@@ -109,4 +109,4 @@ MIT — use livremente para projetos pessoais e comerciais.
 
 Se curtir, deixe uma ⭐ no repositório. Feedbacks são muito bem‑vindos!
 
-[![Repobeats](https://repobeats.axiom.co/api/embed/<repo-id>.svg)](https://github.com/<owner>/<repo>)
+[![Repobeats](https://repobeats.axiom.co/api/embed/<repo-id>.svg)](https://github.com/aMathyzinn/ClimaView)
