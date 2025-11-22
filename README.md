@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" alt="Preview" width="85%"/>
+  <img src="public/logo.png" alt="Preview" width="55%"/>
 </p>
 # ClimaView — Dashboard de Clima Moderno
 
