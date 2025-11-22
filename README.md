@@ -1,6 +1,7 @@
 <p align="center">
   <img src="public/logo.png" alt="Preview" width="55%"/>
 </p>
+
 # ClimaView — Dashboard de Clima Moderno
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist&pause=1000&color=14A5E9&center=true&vCenter=true&width=900&lines=ClimaView+%F0%9F%8C%A1+Dashboard+de+Clima+ModernO;Previs%C3%A3o+em+tempo+real+com+gr%C3%A1ficos+responsivos;Experi%C3%AAncia+suave+em+mobile+e+desktop)](https://github.com/aMathyzinn/ClimaView)
