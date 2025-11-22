@@ -14,8 +14,6 @@
 [![Chart.js](https://img.shields.io/badge/Chart.js-4-FF6384?logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
 [![Open‑Meteo](https://img.shields.io/badge/Open%E2%80%91Meteo-API-0EA5E9)](https://open-meteo.com/)
 
-Perfil: https://github.com/aMathyzinn • Repositório: https://github.com/aMathyzinn/ClimaView
-
 ## Visão Geral
 
 ClimaView é um dashboard de clima com foco em usabilidade e visual limpo. Ele busca dados em tempo real da Open‑Meteo, apresenta previsões por períodos do dia, gráficos semanais, e um painel de índices dinâmicos (churrasco, mosquitos, frizz, ressecamento da pele, gripe/resfriado e UV) calculados com base na condição atual e nas próximas horas.
